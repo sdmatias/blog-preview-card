@@ -69,6 +69,11 @@ img {
     margin: 1rem 0;
 }
 
+.title:hover {
+    cursor: pointer;
+    color: var(--color-yellow);
+}
+
 .description {
     color: var(--color-gray500);
     line-height: 2rem;
